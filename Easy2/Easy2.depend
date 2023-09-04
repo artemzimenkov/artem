@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1693813439 source:c:\users\sch1561-it-040\desktop\easy2\easy5.cpp
+	<iostream>
+	"Easy7.h"
+
+1693817311 source:c:\users\sch1561-it-040\desktop\easy2\main.cpp
+	<iostream>
+	"Easy7.h"
+
+1693817311 c:\users\sch1561-it-040\desktop\easy2\easy7.h
+
+1693816064 source:c:\users\sch1561-it-040\desktop\easy2\zadanie1.cpp
+	<iostream>
+	"Easy7.h"
+
+1693817033 source:c:\users\sch1561-it-040\desktop\easy2\zadanie2.cpp
+	<iostream>
+	"Easy7.h"
+
